@@ -1,0 +1,26 @@
+Q:
+Is it an animal?
+Q:
+Is your animal a house-hold pet?
+A:
+Cat
+Q:
+Is your animal a primate?
+A:
+Gorilla
+Q:
+Does it have feathers?
+A:
+Chicken
+A:
+dog
+Q:
+Is it used to listen to audio?
+A:
+Headphones
+Q:
+Is this object used for food?
+A:
+Cup
+A:
+book
