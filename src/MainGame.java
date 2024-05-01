@@ -19,6 +19,6 @@ public class MainGame {
 
             //Keeps running the questions game until the game has ended
         } while (tree_questions.GotYesFromUser("Do you want to go again?"));
-        tree_questions.UpdateFile(new PrintStream(new File(questions_file)));
+        tree_questions.UpdateFile(new PrintStream((questions_file)));
     }
 }

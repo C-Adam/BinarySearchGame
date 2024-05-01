@@ -12,6 +12,10 @@ Q:
 Does it have feathers?
 A:
 Chicken
+Q:
+Does your animal have a marsupium (pouch)?
+A:
+Kangaroo
 A:
 dog
 Q:
@@ -22,5 +26,17 @@ Q:
 Is this object used for food?
 A:
 Cup
+Q:
+Is this object a hand-held device?
+A:
+Phone
+Q:
+Can you wear this object?
+Q:
+Do you wear this object on your feet?
+A:
+Shoes
+A:
+Shirt
 A:
 book

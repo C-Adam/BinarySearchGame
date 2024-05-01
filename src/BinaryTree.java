@@ -77,7 +77,7 @@ public class BinaryTree {
       if (CheckAnswer(current_node)) {
          //Checks if the bot got a correct answer if yes then the bot wins
          if (GotYesFromUser("Is your object " + current_node.data +"?")) {
-            System.out.println("Easyyyyyy!");
+            System.out.println("Too Easy😂! Try again next time!");
 
             //Else the bot loses and asks for new data input so that it can learn and add it to the questions file
          } else {
